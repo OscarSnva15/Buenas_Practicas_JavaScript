@@ -1,2 +1,2 @@
 # Buenas_Practicas_JavaScript
-FRONT-END , En este caso en el repositorio podras encontrar programacion Javascript ,.En el cual se contemplo el uso de metodos, tecnicas asi como paradigmas de programacion existentes/porporcionados por este lenguaje, Pero en un enfoque de desarollo web para proporcionar dinamica interacción USER-PAGE.
+FRONT-END , En este repositorio podras encontrar programación Javascript ,.En el cual se contempla el uso de metodos, técnicas así como paradigmas de programación existentes/proporcionados por este lenguaje, Pero en un enfoque de desarollo web para proporcionar dinamicidad e interacción USER-PAGE.
