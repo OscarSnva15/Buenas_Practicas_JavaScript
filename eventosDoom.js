@@ -40,3 +40,20 @@ container.addEventListener('mouseup',()=>{
     console.log('usted estuvo clikeando y ha soltado el click,todo esto sobre/sosteniendo el elemento')
 })
 
+// Eventos de teclado
+
+const cajaTexto= document.getElementById('cajaTexto')
+// Evento keydown tedecta cuadno se ha presionado una tecla
+cajaTexto.addEventListener('keydown',()=>{
+    console.log('Escribiendo. . .')
+})
+
+// Evento keydown tedecta cuadno se ha presionado una tecla
+cajaTexto.addEventListener('keyup',()=>{
+    console.log('No Escribiendo . .')
+})
+// Evento keypres tedecta cuadno se esta contantatemente presionando una tecla
+cajaTexto.addEventListener('keypress',()=>{
+    console.log('Presinando . . .')
+})
+
