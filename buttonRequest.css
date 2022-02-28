@@ -1,0 +1,19 @@
+*{
+    background-color: green;
+}
+.container{
+    display: grid;
+    grid-template-columns:repeat(3 ,1fr);
+    grid-gap: 10px;
+}
+
+.item{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.classItemColor{
+    background-color: red;
+}
