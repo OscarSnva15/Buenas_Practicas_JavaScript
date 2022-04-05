@@ -13,8 +13,6 @@ const fragment = document.createDocumentFragment()
 }
 
 dayList.appendChild(fragment)*/
-
-
 for(const day of days){
     const selecItem = document.createElement('OPTION')
     selecItem.textContent=day
