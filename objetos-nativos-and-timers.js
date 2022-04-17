@@ -9,7 +9,6 @@ const button = document.getElementById('button')
 //windows.alert('Hola')//siempre que no pongamos el window,el navegador siempre interpreta que ahi comienza
 
 /*window.document*/
-
 /**objeto console- Es el objeto que contiene la consola del navegador
  * console.log()
  * console.dir()
@@ -50,8 +49,6 @@ console.dir(button);
 //ojo ,it's method is relationship with console of each navegator 
 console.table(1,2,3,4);
 
-
-
 /**Objeto location.- Es el que contiene la barra de direcciones
  * location.href
  * location.protocol
@@ -60,7 +57,6 @@ console.table(1,2,3,4);
  * location hash
  * location.reload()
  */
-
 
 //localtion href
 console.log(location.href) //direccion de la pafina actual
